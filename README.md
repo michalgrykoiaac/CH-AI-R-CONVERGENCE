@@ -15,3 +15,7 @@ The discriminator part of the architecture trains to become better to distinguis
 LATENT SPACE: CHAIR INTERPOLATIONS AND CREATIONS
 
 With this we were then free to explore the latent space by selecting samples manually and manipulating them as we saw fit. In these examples we filtered out samples which had legs and those that were more organic in nature. These voxel samples were then manipulated by averaging, subtract and adding parts together to create new designs.
+
+Ch-AI-r convergence is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master of Advanced Computation in Architecture and Design 2021/22 by Students: Michal Gryko and Maria Papadimitraki, Faculty: Oana Taut, Faculty assistant: Aleksander Mastalski
+
+Blog: https://www.iaacblog.com/programs/chair-convulgence-generative-planning/
